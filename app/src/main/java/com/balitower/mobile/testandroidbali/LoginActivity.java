@@ -91,7 +91,6 @@ public class LoginActivity extends AppCompatActivity {
 
 
         String abc = "\"" + details +"\"";
-        System.out.println(abc);
         System.out.println("I dont know whats right anymore, thanks for give me this test, at least i know that my skill not good enough");
         return abc;
     }
